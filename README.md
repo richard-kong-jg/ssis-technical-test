@@ -28,7 +28,7 @@ For the purposes of this exercise, assume that the existing fact tables do not e
 4. Put a readme file in the repo that documents:
     1. How to build and run the solution
     2. Describe and explain reasoning behind any assumptions you have made
-    3. Explian why you decided to implement things the way you did (optional)
+    3. Explain why you decided to implement things the way you did (optional)
     4. How your solution could be made better
 5. Provide us with a link to your git repo
 
